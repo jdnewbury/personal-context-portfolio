@@ -33,6 +33,17 @@
 
 ---
 
+## JuthyBudget
+**Description:** A family budget tracking application built with Salesforce and Chart.js for data visualisation.
+**Status:** In Progress — MVP complete and in active use, refined as needed
+**My Role:** Sole developer and owner.
+**Key Collaborators:** Family (end users)
+**What Done Looks Like:** Evolves as family needs change — MVP is functional and in daily use.
+**Priority:** Low
+**Notes:** Located at `C:\Development\Salesforce\Juthy\JuthyBudget`. Refinements are on-demand rather than planned.
+
+---
+
 ## Website (jason-newbury.dev)
 **Description:** A personal website showcasing projects and documenting the AI learning journey.
 **Status:** In Progress — ongoing, no fixed finish line
